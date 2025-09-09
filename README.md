@@ -1,5 +1,6 @@
 # ComfyUI_efficient_sam_node
-Unofficial EfficientViT_sam_nodes for the https://huggingface.co/mit-han-lab/efficientvit-sam models
+Unofficial EfficientViT_sam_nodes for the https://huggingface.co/mit-han-lab/efficientvit-sam models\
+
 <img width="2121" height="869" alt="Screenshot 2025-09-08 204734" src="https://github.com/user-attachments/assets/6d3fb857-8e12-4c84-8d25-0c1e2f5771ce" />
 
 ## Installation 
