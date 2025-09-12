@@ -32,4 +32,11 @@ then try again: ```pip install git+https://github.com/mit-han-lab/efficientvit.g
   pages={17302--17313},
   year={2023}
 }
+
+@article{zhang2024efficientvit,
+  title={EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss},
+  author={Zhang, Zhuoyang and Cai, Han and Han, Song},
+  journal={arXiv preprint arXiv:2402.05008},
+  year={2024}
+}
 ```
